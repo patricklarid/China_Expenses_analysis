@@ -9,7 +9,7 @@
 
 This project is a complete data pipeline—from messy raw data to a polished interactive dashboard.
 
-I tracked every yuan I spent across 18 days and 5 Chinese cities (Beijing, Zhangjiajie, Shanghai, Chongqing, and Chengdu). The final result is a 6-slide Power BI dashboard that tells the story behind the numbers: where my money went, what surprised me, and what I'll remember.
+I tracked every yuan I spent across 18 days and 5 Chinese cities (Beijing, Zhangjiajie, Shanghai, Chongqing, and Chengdu). The final result is a 5-slide Power BI dashboard that tells the story behind the numbers: where my money went, what surprised me, and what I'll remember.
 
 ---
 
@@ -37,17 +37,13 @@ Once the data was clean, I used **SQL** to run a few sanity checks and explore t
 *I did not build the dashboard directly from SQL—I used it to verify the data before visualizing.*
 
 ### 4. Visualization (Power BI)
-I imported the cleaned CSV into Power BI and built a 6-slide dashboard to explore the story:
+I imported the cleaned CSV into Power BI and built a dashboard to explore the story:
 - Executive Summary
 - Where Did My Money Go?
 - Food Breakdown
 - Transport Breakdown
 - City Comparison
-- Key Takeaways
-
-### 5. Images
-The photos on the final slide (Key Takeaways) were taken by me during the trip. I screenshotted them to remove any metadata before embedding them in the dashboard.
-
+*(A 6th slide — Key Takeaways — is available on my LinkedIn post/project section for those interested in the full narrative.)*
 ---
 
 ## 🛠️ SQL Queries (Data Aggregation)
