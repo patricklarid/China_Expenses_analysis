@@ -81,4 +81,4 @@ This project combines my love for travel with my technical skills.
 
 ## 📄 License
 
-Feel free to use this as a reference for your own travel dashboards—just don't use my personal photos without permission! 😉
+Feel free to use this as a reference for your own travel dashboards! 😉
