@@ -7,7 +7,7 @@
 
 ## 📊 Project Overview
 
-This project is a complete data pipeline—from messy raw data to a polished interactive dashboard.
+This project is a complete data pipeline, from messy raw data to a polished interactive dashboard.
 
 I tracked every yuan I spent across 18 days and 5 Chinese cities (Beijing, Zhangjiajie, Shanghai, Chongqing, and Chengdu). The final result is a 5-slide Power BI dashboard that tells the story behind the numbers: where my money went, what surprised me, and what I'll remember.
 
@@ -34,7 +34,7 @@ Once the data was clean, I used **SQL** to run a few sanity checks and explore t
 - Global overview (total spend, average transaction, top purchase, transaction count)
 - Spend breakdown by category
 
-*I did not build the dashboard directly from SQL—I used it to verify the data before visualizing.*
+*I did not build the dashboard directly from SQL, I used it to verify the data before visualizing.*
 
 ### 4. Visualization (Power BI)
 I imported the cleaned CSV into Power BI and built a dashboard to explore the story:
@@ -43,7 +43,7 @@ I imported the cleaned CSV into Power BI and built a dashboard to explore the st
 - Food Breakdown
 - Transport Breakdown
 - City Comparison
-*(A 6th slide — Key Takeaways — is available on my LinkedIn post/project section for those interested in the full narrative.)*
+*(A 6th slide —> Key Takeaways, is available on my LinkedIn post/project section for those interested in the full narrative.)*
 ---
 
 ## 🛠️ SQL Queries (Data Aggregation)
@@ -57,7 +57,7 @@ I used SQL to aggregate and explore the raw CSV data before building the dashboa
 **2. Spend by Category** (`2_Spend_By_Category.sql`)
 - Breakdown by Food, Transport, Attractions, Shopping, etc.
 
-*The SQL queries reference the expenses.csv file—ensure it is in the same directory or update the file path.*
+*The SQL queries reference the expenses.csv file, ensure it is in the same directory or update the file path.*
 *Screenshots of the queries and results are included in the `/SQL/` folder.*
 
 
@@ -71,7 +71,7 @@ I used SQL to aggregate and explore the raw CSV data before building the dashboa
 
 ## 🙋 About Me
 
-I'm Patrick — a guy passionate about numbers and visual stories.  
+I'm Patrick, a guy passionate about numbers and visual stories.  
 This project combines my love for travel with my technical skills.
 
 **Connect with me:**  
